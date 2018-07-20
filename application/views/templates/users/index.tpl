@@ -15,6 +15,7 @@
             <td>{$user->name}</td>
             <td>{$user->email}</td>
         </tr>
-    </tbody>
 {/foreach}
+    </tbody>
+
 </table>
